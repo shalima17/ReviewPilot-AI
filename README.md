@@ -40,7 +40,7 @@ Install dependencies and start the app:
 
 ```bash
 pip install -r requirements.txt
-streamlit run app.py
+python -m streamlit run app.py
 ```
 
 ## Enable Gemini AI (optional)
